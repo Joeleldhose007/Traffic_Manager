@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['@tensorflow/tfjs'],
+      external: ['@tensorflow/tfjs', '@tensorflow-models/coco-ssd'], // Add @tensorflow-models/coco-ssd
     },
   },
 });
