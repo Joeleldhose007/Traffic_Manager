@@ -15,7 +15,7 @@
     "react-dom": "^18.3.1",
     "react-webcam": "^7.2.0",
     "onnxruntime-web": "^1.16.3",
-    "@tensorflow/tfjs": "^4.22.0" // Add @tensorflow/tfjs here
+    "@tensorflow/tfjs": "^4.22.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
